@@ -79,16 +79,17 @@ ClothingSelectionDefinitions.default = {
 		},
 		
 		Underwear = {
-			items = {"FrillyUnderpants_Black", "FrillyUnderpants_Red", "FrillyUnderpants_Pink", "Underpants_AnimalPrint", "Underpants_Black", "Underpants_RedSpots", "Underpants_White"},
+			items = {"Underpants_White", "FrillyUnderpants_Black", "FrillyUnderpants_Red", "FrillyUnderpants_Pink", "Underpants_AnimalPrint", "Underpants_Black", "Underpants_RedSpots"},
 		},
 		
 		UnderwearTop = {
-			items = {"Bra_Straps_FrillyBlack", "Bra_Strapless_FrillyBlack", "Bra_Straps_FrillyRed", "Bra_Strapless_FrillyRed", "Bra_Straps_FrillyPink", "Bra_Strapless_FrillyPink", "Bra_Straps_AnimalPrint", "Bra_Strapless_AnimalPrint", "Bra_Strapless_Black", "Bra_Straps_Black", "Bra_Strapless_RedSpots", "Bra_Strapless_White"},
+			items = {"Bra_Strapless_White", "Bra_Straps_Black", "Bra_Strapless_Black", "Bra_Strapless_RedSpots", "Bra_Straps_FrillyBlack", "Bra_Strapless_FrillyBlack", "Bra_Straps_FrillyRed", "Bra_Strapless_FrillyRed", "Bra_Straps_FrillyPink", "Bra_Strapless_FrillyPink", "Bra_Straps_AnimalPrint", "Bra_Strapless_AnimalPrint"},
 		},
 
 		UnderwearBottom = {
 			chance = 10,
 			items = {"Base.StockingsBlack", "Base.StockingsBlackSemiTrans", "Base.StockingsBlackTrans", "Base.TightsBlack", "Base.TightsBlackSemiTrans", "Base.TightsBlackTrans"},
+		},
 		
 		Socks = {
 			items = {"Base.Socks_Ankle", "Base.Socks_Long",},
